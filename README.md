@@ -26,20 +26,20 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- I learned how to push and commit with Git, also I set up Git... And learned how to use it (hopefully if I got this working of course)
 
 **I struggled with:** (repeat as needed)
-- .
+- Making sure it could push, right now I'm having issues with "Repository not found." Hopefully I can fix this. Though if you're seeing this... I did.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- N/A
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get a 20 out of 20 I guess? Assuming I got it working I guess ahahaha.
 
 ------------------
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- N/A
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- N/A
