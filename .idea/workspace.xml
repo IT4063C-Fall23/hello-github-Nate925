@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ee387d9-c306-4b35-9e42-0e40ae35ac32" name="Changes" comment="" />
+    <list default="true" id="0ee387d9-c306-4b35-9e42-0e40ae35ac32" name="Changes" comment="Updated Self Assessment / Reflection" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2UanTiE0Q87JZjgbHObvqd6iuBe" />
@@ -29,6 +30,45 @@
       <option name="presentableId" value="Default" />
       <updated>1693186572986</updated>
     </task>
+    <task id="LOCAL-00001" summary="Created intro.md file!">
+      <created>1693187018949</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693187018949</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added my name and university to intro.md">
+      <created>1693187084907</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693187084907</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated Self Assessment / Reflection">
+      <created>1693187567732</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693187567732</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created intro.md file!" />
+    <MESSAGE value="Added my name and university to intro.md" />
+    <MESSAGE value="Updated Self Assessment / Reflection" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Self Assessment / Reflection" />
   </component>
 </project>
